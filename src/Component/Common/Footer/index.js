@@ -16,7 +16,7 @@ function Footer() {
         CryptoTracker<span className="text-[var(--blue)]">.</span>
       </p>
 
-      <p className="text-xl bold">Made By Piyush Jain❤️</p>
+      <p className="text-xl font-semibold">Made By Piyush Jain❤️</p>
 
       <div className="social-links flex gap-8">
         <a href="https://github.com/piyushjain5350">

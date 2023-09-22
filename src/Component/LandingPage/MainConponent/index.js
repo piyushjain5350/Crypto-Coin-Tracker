@@ -15,7 +15,7 @@ function MainComponent() {
           <RWebShare
               data={{
                 text: "Crypto Tracker Application",
-                url: "",
+                url: "https://piyushjain5350-crypto-coin-tracker.vercel.app/",
                 title: "Crypto  Tracker",
               }}
               onClick={() => console.log("shared successfully!") }
